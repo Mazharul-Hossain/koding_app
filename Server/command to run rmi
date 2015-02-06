@@ -1,0 +1,13 @@
+Command to run rmiregistry
+--------------------------
+
+rmiregistry &
+
+command to stop rmiregistry
+---------------------------
+
+% fg 
+
+then
+
+Crtl + C 
